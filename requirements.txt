@@ -1,0 +1,9 @@
+phidata
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+extract-msg==0.29.0
